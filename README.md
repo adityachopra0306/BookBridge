@@ -3,7 +3,7 @@
 BookBridge is a React-based web platform to donate and discover educational books for underprivileged children. The site features a clean UI with scrollable book cards and option to receive books from donors through e-mail and location.
 The project has no backend and is of little practical use, it is a personal project for experimentation with the React.js frontend.
 
-Live Demo: [https://bookbridge.vercel.app](https://bookbridge.vercel.app)
+Live Demo: [https://book-bridge-beta.vercel.app/](https://book-bridge-beta.vercel.app/)
 
 ---
 
