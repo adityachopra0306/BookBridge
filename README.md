@@ -31,16 +31,7 @@ Live Demo: [https://book-bridge-beta.vercel.app/](https://book-bridge-beta.verce
 To run locally:
 
 ```bash
-git clone https://github.com/your-username/BookBridge.git  
+git clone https://github.com/adityachopra0306/BookBridge.git  
 npm install  
 npm start  
 ```
-
----
-
-## Deployment (Vercel)
-
-1. Push the code to a GitHub repo (e.g., `BookBridge`)
-2. Go to [https://vercel.com](https://vercel.com) and import the project from GitHub
-3. Set the root directory as `bookbridge`
-4. Deploy!
